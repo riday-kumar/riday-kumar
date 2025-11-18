@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**riday-kumar/riday-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&pause=800&color=1A0CFF&width=435&lines=Hi+%F0%9F%91%8B+%2C++I'm+Hridoy+Saha!;Nice+to+See+You+Here!++)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img src = "https://i.ibb.co.com/W1MRVTL/4380747.jpg" />
