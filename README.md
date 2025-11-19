@@ -7,7 +7,7 @@ I'm Hridoy Saha, <strong>a Full Stack Developer</strong> specializing in the <st
 
 <hr>
 <div>
-  <img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif](https://i.ibb.co.com/W1MRVTL/4380747.jpg" />
+  <img align="right" width="400" alt="" src="./images/skill.jpg" />
   
 ### Talking about Personal Stuff:
 
@@ -15,6 +15,7 @@ I'm Hridoy Saha, <strong>a Full Stack Developer</strong> specializing in the <st
 - 📫 &nbsp; Reach me out: <strong>hridoykumarsaha07@gmail.com.</strong>
 
 ### My Absolute Favorites:
+
 - 💻 &nbsp; Always experimenting with new tech and building whatever excites me.
 - 🍕 &nbsp; You’ll usually find me at tech meetups or hackathons—learning, sharing, and having fun.
 </div>
