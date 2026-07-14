@@ -1,9 +1,6 @@
-<img align="center" src="./images/profile.png" />
-<br>
-<br>
-<br>
+<img width="1500" height="500" alt="Yellow and Gray Corporate Business Strategy Twitter Header (2)" src="https://github.com/user-attachments/assets/4ff3f84a-2d17-4a53-a163-05fb52a5aa1b" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&pause=800&color=1A0CFF&width=435&lines=Hi+%F0%9F%91%8B+%2C++I'm+Hridoy+Saha!;Nice+to+See+You+Here!++)](https://git.io/typing-svg)
+
 
 I'm Hridoy Saha, <strong>a Full Stack Developer</strong> specializing in the <strong>MERN stack</strong> and proudly building amazing things from <strong>Bangladesh</strong>. I love creating modern, scalable, and user-friendly web applications and crafting smooth digital experiences from frontend to backend.<br>
 <strong>Let's connect and build something amazing!</strong>
