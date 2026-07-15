@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img width="1500" height="500" alt="github_banner" src="https://github.com/user-attachments/assets/ae72cd18-0853-4879-8466-7bbed6900146" />
+  <img width="1500" height="500" alt="github_banner" src="./images/github_banner.png" />
 </div>
 
 ###
