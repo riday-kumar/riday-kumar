@@ -9,7 +9,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Next.js+Developer;Open+Source+Learner;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Next.js+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 ###
