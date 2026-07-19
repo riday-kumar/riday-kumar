@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left">Email : hridoykumarsaha07@gmail.com<br>Portfolio : <a href="https://riday-kumar-saha.vercel.app/"  target="_blank">riday-kumar-saha</a> <br>Linkedin : <a href="https://www.linkedin.com/in/hridoy-kumar-saha/" target="_blank">hridoy-kumar-saha</a></p>
+<p data-importer="text" align="left">Email : hridoykumarsaha07@gmail.com<br>Portfolio : <a href="https://riday-kumar-saha.vercel.app/"  target="_blank">riday-kumar-saha</a> <br>Linkedin : <a href="https://www.linkedin.com/in/hridoy-kumar-saha/" target="_blank">hridoy-kumar-saha</a> <br>Resume : <a href="https://drive.google.com/file/d/1Z-aLXYZHfryWzvhSJ3ZlWgMzAHa-2q4M/view?usp=drive_link" target="_blank">riday-kumar-saha</a></p>
 
 ###
 
@@ -155,6 +155,10 @@
   </a>
 </div>
 
+<div data-importer="profile-views" align="right">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=riday-kumar.riday-kumar&"  />
+</div>
+
 ###
 
 <div data-importer="stats" align="center">
@@ -167,7 +171,3 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/riday-kumar/riday-kumar/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div data-importer="profile-views" align="right">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=riday-kumar.riday-kumar&"  />
-</div>
