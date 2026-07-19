@@ -8,15 +8,22 @@
 
 ###
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Next.js+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer" alt="Typing SVG" />
+</p> -->
+<h3 align="center">Code With Purpose, Create With Passion</h3>
 
 ###
 
 <br clear="both">
 
-<p data-importer="text" align="left">🖥️ I’m currently working on React.js, Next.js, Typescript for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br>📫 Feel free to reach me out Email</p>
+## About Me
+
+<p data-importer="text" align="left">🧑‍💻 Full Stack Developer with a strong interest in modern JavaScript technologies.<br>🎨 Building modern web applications with React.js, Next.js, TypeScript, and Tailwind CSS.<br>🛠️ Developing backend applications using Node.js, Express.js, PostgreSQL, Prisma ORM, and MongoDB.<br>🌱 Learning by building real-world projects and continuously refining my skills.<br>💬 Happy to discuss Full Stack JavaScript development.</p>
+
+## Current Activities
+
+<p data-importer="text" align="left">🚧 Building full-stack projects to strengthen my practical experience.<br>🔍 Exploring payment integration, caching, and backend best practices.</p>
 
 ###
 
